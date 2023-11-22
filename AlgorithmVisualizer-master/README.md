@@ -62,4 +62,5 @@ I took inspirations from the following sources for some of the segments.
 - `Recursion tree visualizer`: [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
 - `Turing Machine`: [Tursi](https://github.com/schaetzc/tursi)
 
+VISIT THE SITE :- https://tamimehsan.github.io/AlgorithmVisualizer/
 

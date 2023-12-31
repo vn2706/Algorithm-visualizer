@@ -48,7 +48,7 @@ I have implemented a total of `24 algorithms` so far. And will try to add more l
   - Increment one
   - 2's Compliment
  
-    Preview of this webpage - Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
+    Preview of this webpage - Visit : https://tamimehsan.github.io/AlgorithmVisualizer/#/
 
 
 
